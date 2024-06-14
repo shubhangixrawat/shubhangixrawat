@@ -1,4 +1,4 @@
-- 👋 this is @shubhangirawat
+- 👋 this is @shubhangxirawat
 - 👀 Insatiable curiosity for Analytics
 - 🌱 My skills include: Power BI | Tableau | SQL | Content Writing
 - 💞️ I’m looking to collaborate on projects or research work where I can use my skills.
